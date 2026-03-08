@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+transformers
+torch
+textblob
+nltk
+langdetect
+sqlalchemy
+python-dotenv
+pydantic

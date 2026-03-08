@@ -1,0 +1,35 @@
+{
+  "profanity": {
+    "arabic": [
+      "تبا",
+      "غبي",
+      "قذر"
+    ],
+    "english": [
+      "fuck",
+      "shit",
+      "bitch"
+    ]
+  },
+  "cybercrime": {
+    "keywords": [
+      "hack server",
+      "sql injection",
+      "bypass firewall",
+      "steal password"
+    ]
+  },
+  "violence": [
+    "how to build a bomb",
+    "assassinate",
+    "kill them all"
+  ],
+  "self_harm": [
+    "how to commit suicide",
+    "ways to kill myself"
+  ],
+  "hate_speech": [
+    "racial superiority",
+    "ethnic cleansing"
+  ]
+}
